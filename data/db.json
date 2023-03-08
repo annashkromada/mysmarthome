@@ -1,0 +1,15 @@
+{
+    "_default": {},
+    "users": {
+        "1": {
+            "email": "user",
+            "name": "user",
+            "password": "user"
+        },
+        "2": {
+            "email": "admin",
+            "name": "admin",
+            "password": "admin"
+        }
+    }
+}
